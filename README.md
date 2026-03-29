@@ -9,6 +9,8 @@ A collection of algorithmic problem-solving implementations developed in Java.
 
 ## Implemented Algorithms
 - Alphabet position finder
+- Square root calculator
+- Bronze medalist finder
 
 ## Technologies
 - Java
