@@ -11,6 +11,8 @@ A collection of algorithmic problem-solving implementations developed in Java.
 - Alphabet position finder
 - Square root calculator
 - Bronze medalist finder
+- Binary Search Tree (insert, traversal)
+- Grid-based resource optimisation
 
 ## Technologies
 - Java
